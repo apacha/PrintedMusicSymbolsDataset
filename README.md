@@ -1,4 +1,4 @@
-# Printed Music Symbol Dataset
+# Printed Music Symbols Dataset
 
 This repository contains a set of about 200 printed music symbols of 36 different classes with and without context.
 
