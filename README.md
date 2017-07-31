@@ -2,6 +2,8 @@
 
 This repository contains a set of about 200 printed music symbols of 36 different classes with and without context.
 
+**Notice**: This dataset is not complete and may be extended at any point in time without further notice.
+
 # License
 
 Published under MIT License,
